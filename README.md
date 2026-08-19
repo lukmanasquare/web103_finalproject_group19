@@ -4,7 +4,7 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Lukman Adeyemi, Joseph Siggia and Maria Khan
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://college-soccer-scout-helper.onrender.com/
 
 ## About
 An app that allows student football players to showcase their skills to scouts.
