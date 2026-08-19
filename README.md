@@ -202,7 +202,8 @@ The application guides users through the complete college football recruitment p
 6. Coaches send tryout invitations.
 7. Players monitor scouting status and invitations.
 
-<img width="1920" height="1018" alt="College Scout Application" src="https://github.com/user-attachments/assets/9dda4836-7449-419a-8699-52f0f9449462" />
+<img width="1920" height="1018" alt="College App Test" src="https://github.com/user-attachments/assets/7e2e424c-3c6d-46af-b980-425173a82b4a" />
+
 
 ##
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
