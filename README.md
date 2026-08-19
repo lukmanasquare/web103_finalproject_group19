@@ -6,6 +6,7 @@ Designed and developed by: Lukman Adeyemi, Joseph Siggia and Maria Khan
 
 🔗 Link to deployed app: https://college-soccer-scout-helper.onrender.com/
 
+##
 ## About
 An app that allows student football players to showcase their skills to scouts.
 
@@ -26,7 +27,7 @@ The goal of this application is to simplify player recruitment within a college 
 Many talented college students are interested in playing football but often do not know how to join a team or demonstrate their abilities to coaches. Likewise, college football clubs and intramural teams frequently rely on word-of-mouth, social media, or informal recommendations when recruiting players.
 
 College Football Scout Helper was inspired by the idea of creating a dedicated scouting platform where student players can present their football experience and skills while allowing coaches and team captains to efficiently identify, evaluate, and recruit players who fit their team's needs.
-
+##
 ## Tech Stack
 
 Frontend:
@@ -45,6 +46,7 @@ pg
 dotenv
 CORS
 
+##
 ## Features
 
 ### ✅ Database Reset
@@ -54,7 +56,7 @@ The backend includes a database reset feature that restores the application to i
 <img width="1920" height="1020" alt="Database" src="https://github.com/user-attachments/assets/38aa28fb-a212-442f-a259-2eba8a590240" />
 
 
-
+##
 ### ✅ Home Page
 
 Modern landing page introducing the platform and highlighting featured players, featured teams, and the player recruitment process.
@@ -67,7 +69,7 @@ Modern landing page introducing the platform and highlighting featured players, 
 
 
 
-
+##
 ### ✅ Player Identity and Profile Verification (Custom 1)
 
 Student players must verify their identity using their first name, last name, and date of birth before creating a football profile.
@@ -91,7 +93,7 @@ This feature uses simulated verification records for demonstration purposes and 
      alt="Player Verification Demo"
      width="900">
 
-
+##
 ### ✅ Complete Player Registration
 
 Verified football information is automatically locked after identity verification. Players only complete their account information, biography, profile image, and availability before creating their account.
@@ -100,7 +102,7 @@ Verified football information is automatically locked after identity verificatio
      alt="Player Verification Demo"
      width="900">
 
-
+##
 ### ✅ Verified Student Player Profiles
 
 Student players can create and manage a verified football profile after completing the player verification process.
@@ -153,7 +155,7 @@ Assists
      width="900">
 
 
-
+##
 ### ✅ Team Profiles
 
 View information about college football teams, including team name, division, captain, and current roster.
@@ -163,7 +165,7 @@ View information about college football teams, including team name, division, ca
   alt="View Teams Demo"
   width="900"
 />
-
+##
 ### ✅ Scout List
 
 Team captains and coaches can save promising players to their personal scout list while keeping track of scouting progress through statuses such as Interested, Watching, Contacted, Tryout Invited, and Added to Team.
@@ -171,23 +173,23 @@ Team captains and coaches can save promising players to their personal scout lis
 
 <img width="1920" height="1019" alt="Scout List" src="https://github.com/user-attachments/assets/17e2fa39-5451-436a-b5bb-4c908808174c" />
 
-
+##
 ### AI Assistant(Custom 3)   - In-progress
 An AI assistant that helps the user accomplish their tasks.  
 
 <img width="1920" height="1018" alt="AI Feature" src="https://github.com/user-attachments/assets/b4e8186c-7f11-4b5b-a0dc-b70b1f399248" />
 
-
+##
 ### Tryout Invitation Modal (Custom 4) - In-progress
 Captains and coaches can invite players to upcoming tryouts using a popup modal without leaving the current page. Invitations include the tryout date, location, and a personalized message.
 
 
 [gif goes here]
-
+##
 ### ✅ Responsive User Interface
 The application is fully responsive and optimized for desktop, tablet, and mobile devices.
 
-
+##
 ## ✅ Recruitment Workflow
 
 The application guides users through the complete college football recruitment process:
@@ -202,7 +204,7 @@ The application guides users through the complete college football recruitment p
 
 <img width="1920" height="1018" alt="College Scout Application" src="https://github.com/user-attachments/assets/9dda4836-7449-419a-8699-52f0f9449462" />
 
-
+##
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
