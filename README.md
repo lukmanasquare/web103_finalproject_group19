@@ -27,7 +27,7 @@ The goal of this application is to simplify player recruitment within a college 
 Many talented college students are interested in playing football but often do not know how to join a team or demonstrate their abilities to coaches. Likewise, college football clubs and intramural teams frequently rely on word-of-mouth, social media, or informal recommendations when recruiting players.
 
 College Football Scout Helper was inspired by the idea of creating a dedicated scouting platform where student players can present their football experience and skills while allowing coaches and team captains to efficiently identify, evaluate, and recruit players who fit their team's needs.
-##
+
 ## Tech Stack
 
 Frontend:
@@ -46,7 +46,7 @@ Backend:
 - dotenv
 - CORS
 
-##
+
 ## Features
 
 ### ✅ Database Reset
