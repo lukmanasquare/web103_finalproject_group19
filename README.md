@@ -169,6 +169,7 @@ View information about college football teams, including team name, division, ca
 Team captains and coaches can save promising players to their personal scout list while keeping track of scouting progress through statuses such as Interested, Watching, Contacted, Tryout Invited, and Added to Team.
 
 
+<img width="1920" height="1019" alt="Scout List" src="https://github.com/user-attachments/assets/17e2fa39-5451-436a-b5bb-4c908808174c" />
 
 
 ### AI Assistant(Custom 3)   - In-progress
