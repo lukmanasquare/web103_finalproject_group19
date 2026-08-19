@@ -154,35 +154,40 @@ Assists
 
 
 
-### Team Profiles
+### ✅ Team Profiles
 
 View information about college football teams, including team name, division, captain, and current roster.
 
+<img
+  src="./client/public/images/View%20Teams.gif"
+  alt="View Teams Demo"
+  width="900"
+/>
 
-### Scout List
+### ✅ Scout List
 
 Team captains and coaches can save promising players to their personal scout list while keeping track of scouting progress through statuses such as Interested, Watching, Contacted, Tryout Invited, and Added to Team.
 
 
-### Tryout Invitation Modal (Custom 3)
-Captains and coaches can invite players to upcoming tryouts using a popup modal without leaving the current page. Invitations include the tryout date, location, and a personalized message.
 
 
-[gif goes here]
-
-
-
-### AI Assistant(Custom 4)
+### AI Assistant(Custom 3)   - In-progress
 An AI assistant that helps the user accomplish their tasks.  
 
 <img width="1920" height="1018" alt="AI Feature" src="https://github.com/user-attachments/assets/b4e8186c-7f11-4b5b-a0dc-b70b1f399248" />
 
 
-### Responsive User Interface
+### Tryout Invitation Modal (Custom 4) - In-progress
+Captains and coaches can invite players to upcoming tryouts using a popup modal without leaving the current page. Invitations include the tryout date, location, and a personalized message.
+
+
+[gif goes here]
+
+### ✅ Responsive User Interface
 The application is fully responsive and optimized for desktop, tablet, and mobile devices.
 
 
-## Recruitment Workflow
+## ✅ Recruitment Workflow
 
 The application guides users through the complete college football recruitment process:
 
