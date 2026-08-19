@@ -31,20 +31,20 @@ College Football Scout Helper was inspired by the idea of creating a dedicated s
 ## Tech Stack
 
 Frontend:
-React
-React Router
-JavaScript
-HTML
-CSS
+- React
+- React Router
+- JavaScript
+- HTML
+- CSS
 
 Backend:
 
-Node.js
-Express.js
-PostgreSQL
-pg
-dotenv
-CORS
+- Node.js
+- Express.js
+- PostgreSQL
+- pg
+- dotenv
+- CORS
 
 ##
 ## Features
